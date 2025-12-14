@@ -1,0 +1,12 @@
+must have python 3.8 + installed 
+Once installed you have to press 
+Windows + R 
+type in cmd 
+Press enter 
+and paste this 
+
+pip install pyperclip
+
+into the prompt 
+
+after it downloads fully you can run safely ! 
